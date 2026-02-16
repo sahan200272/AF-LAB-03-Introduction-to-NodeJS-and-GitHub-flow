@@ -1,0 +1,23 @@
+{
+  "name": "af-lab-03-introduction-to-nodejs-and-github-flow",
+  "version": "1.0.0",
+  "description": "Lab 03 Node setup",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/sahan200272/AF-LAB-03-Introduction-to-NodeJS-and-GitHub-flow#readme",
+  "bugs": {
+    "url": "https://github.com/sahan200272/AF-LAB-03-Introduction-to-NodeJS-and-GitHub-flow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahan200272/AF-LAB-03-Introduction-to-NodeJS-and-GitHub-flow.git"
+  },
+  "license": "ISC",
+  "author": "Sahan Munasingha",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
